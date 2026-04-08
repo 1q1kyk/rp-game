@@ -1,0 +1,13 @@
+{
+  "player1": {
+    "attack": ["a"],
+    "check_hp": ["s"],
+    "flee": ["d"]
+  },
+  "player2": {
+    "attack": ["Left"],
+    "check_hp": ["Down"],
+    "flee": ["Right"]
+  }
+}
+
